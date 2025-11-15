@@ -63,4 +63,4 @@ Estou sempre aberto a novas conexões, projetos e oportunidades de aprendizado!
 
 ---
 ![rafabryan GitHub stats](https://github-readme-stats.vercel.app/api?username=rafabryan&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafabryan&layout=compact icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafabryan&layout=compact)
