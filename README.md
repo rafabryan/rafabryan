@@ -23,7 +23,7 @@ Minha principal stack é focada no ecossistema React/Next.js, mas estou sempre a
 | **DevTools & Outros** | `HTML5`, `Git`, `GitHub Actions` (CI/CD), `Vite`/`Webpack` |
 | **Novas Tendências** | Explorando `Svelte`/`SvelteKit` e arquitetura **Micro-Frontends** |
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,sass,redux,jest,git,vscode" alt="Skills: JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS, Sass, Redux, Jest, Git, VS Code" />
 </p>
 
