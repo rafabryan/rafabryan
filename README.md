@@ -26,6 +26,8 @@ Minha principal stack é focada no ecossistema React/Next.js, mas estou sempre a
 </p>
 
 ---
+| Cursos | Certificados |
+|--------|--------------|
 
 ### 💡 Destaques de Projetos
 
