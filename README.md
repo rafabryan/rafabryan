@@ -17,7 +17,7 @@ Minha principal stack é focada no ecossistema React/Next.js, mas estou sempre a
 | :--- | :--- |
 | **Linguagem Principal** | `JavaScript` (`ES6+`), `TypeScript` (Para maior segurança e escalabilidade) |
 | **Frameworks & Bibliotecas** | `React` (Biblioteca principal), `Next.js` (Para SSR/SSG e Full-Stack) |
-| **Estilização** | `CSS3`, `Sass/SCSS`, `Tailwind CSS` (Preferido para utilitários e rapidez) |
+| **Estilização** | `CSS3`, `Sass/SCSS`, `Tailwind CSS` (Preferido CSS3 para utilitários e rapidez) |
 | **Gerenciamento de Estado** | `Redux` (Para aplicações complexas), `Zustand`/`Jotai` ou `Context API + Hooks` |
 | **Testes** | `Jest`, `React Testing Library` (Foco em testes de comportamento do usuário) |
 | **DevTools & Outros** | `HTML5`, `Git`, `GitHub Actions` (CI/CD), `Vite`/`Webpack` |
@@ -33,13 +33,13 @@ Minha principal stack é focada no ecossistema React/Next.js, mas estou sempre a
 
 Confira alguns dos meus trabalhos mais recentes e importantes que demonstram minhas habilidades:
 
-#### **[Nome do Projeto 1 - Ex: Plataforma E-commerce]**
+#### **[Nome do Projeto 1 -daniele-doce-magia-main]**
 * **Descrição:** Uma aplicação completa de [tipo de aplicação] construída com **Next.js** e **TypeScript**, implementando SSR para SEO e performance.
-* **Tecnologias-chave:** Next.js, TypeScript, Tailwind CSS, [Seu Estado Manager].
+* **Tecnologias-chave:** Next.js, TypeScript, Tailwind CSS, Completo em Front-End.
 * **🔗 Repositório:** `https://github.com/rafabryan?tab=repositories`
-* **🔗 Live Demo (Se houver):** `[Link para o projeto em produção]`
+* **🔗 Live Demo (Se houver):** `https://github.com/rafabryan/daniele-doce-magia-main.git`
 
-#### **[Nome do Projeto 2 - Ex: Dashboard de Controle]**
+#### **Super-Trunfo-em-C**
 * **Descrição:** Um dashboard administrativo complexo utilizando **React** e **Redux** para gerenciamento de estado global. Foco em UX e componentes reutilizáveis.
 * **Tecnologias-chave:** React, Redux Toolkit, Styled-Components, Jest.
 * **🔗 Repositório:** `https://github.com/rafabryan?tab=repositories`
