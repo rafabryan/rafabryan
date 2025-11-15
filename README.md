@@ -62,9 +62,4 @@ Estou sempre aberto a novas conexões, projetos e oportunidades de aprendizado!
 | **Email** | rafaeel.fs@gmail.com |
 
 ---
-
-### **Próximo Passo Sugerido:**
-
-Se precisar de ajuda para encontrar ícones específicos para as tecnologias que você usa ou para customizar o tema das estatísticas do GitHub, me avise!
-
-Posso te ajudar a encontrar os códigos exatos dos **badges** do Shields.io ou do Skill Icons.
+![![rafabryan GitHub stats](https://github-readme-stats.vercel.app/api?username=rafabryan)](https://github.com/rafabryan/github-readme-stats)
