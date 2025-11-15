@@ -33,7 +33,7 @@ Minha principal stack é focada no ecossistema React/Next.js, mas estou sempre a
 
 Confira alguns dos meus trabalhos mais recentes e importantes que demonstram minhas habilidades:
 
-#### **[Nome do Projeto 1 -daniele-doce-magia-main]**
+#### ** Daniele Bolos e Doces **
 * **Descrição:** Uma aplicação completa de [tipo de aplicação] construída com **Next.js** e **TypeScript**, implementando SSR para SEO e performance.
 * **Tecnologias-chave:** Next.js, TypeScript, Tailwind CSS, Completo em Front-End.
 * **🔗 Repositório:** `https://github.com/rafabryan?tab=repositories`
