@@ -18,8 +18,6 @@ Minha principal stack é focada no ecossistema React/Next.js, mas estou sempre a
 | **Linguagem Principal** | `JavaScript` (`ES6+`), `TypeScript` (Para maior segurança e escalabilidade) |
 | **Frameworks & Bibliotecas** | `React` (Biblioteca principal), `Next.js` (Para SSR/SSG e Full-Stack) |
 | **Estilização** | `CSS3`, `Sass/SCSS`, `Tailwind CSS` (Preferido CSS3 para utilitários e rapidez) |
-| **Gerenciamento de Estado** | `Redux` (Para aplicações complexas), `Zustand`/`Jotai` ou `Context API + Hooks` |
-| **Testes** | `Jest`, `React Testing Library` (Foco em testes de comportamento do usuário) |
 | **DevTools & Outros** | `HTML5`, `Git`, `GitHub Actions` (CI/CD), `Vite`/`Webpack` |
 | **Novas Tendências** | Explorando `Svelte`/`SvelteKit` e arquitetura **Micro-Frontends** |
 
