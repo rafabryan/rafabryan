@@ -3,7 +3,7 @@
 <p align="center">
   </p>
 
-Sou um **Desenvolvedor Frontend** apaixonado por transformar ideias em interfaces de usuário **responsivas**, **performáticas** e **acessíveis**. Minha missão é construir experiências digitais fluidas e intuitivas que gerem valor real para o usuário final.
+ 😎 Sou um **Desenvolvedor Frontend** apaixonado por transformar ideias em interfaces de usuário **responsivas**, **performáticas** e **acessíveis**. Minha missão é construir experiências digitais fluidas e intuitivas que gerem valor real para o usuário final.
 
 Atualmente, estou focado em arquiteturas modernas como **Server-Side Rendering (SSR)** e **Componentização avançada**, buscando sempre as melhores práticas para desenvolvimento de aplicações em escala.
 
