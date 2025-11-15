@@ -25,7 +25,7 @@ Minha principal stack é focada no ecossistema React/Next.js, mas estou sempre a
   <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,sass,git,vscode" alt="Skills: JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS, Sass, Redux, Jest, Git, VS Code" />
 </p>
 
----
+
 | Cursos | Certificados |
 |--------|--------------|
 
