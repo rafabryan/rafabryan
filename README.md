@@ -62,4 +62,4 @@ Estou sempre aberto a novas conexões, projetos e oportunidades de aprendizado!
 | **Email** | rafaeel.fs@gmail.com |
 
 ---
-![rafabryan GitHub stats](https://github-readme-stats.vercel.app/api?username=rafabryan)](https://github.com/rafabryan/github-readme-stats)
+![rafabryan GitHub stats](https://github-readme-stats.vercel.app/api?username=rafabryan)]
